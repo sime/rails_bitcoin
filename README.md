@@ -20,7 +20,6 @@ bundle install
 
 ````ruby
 class Member < ActiveRecord::Base
-
   # attributes: address, message, signature
 
   # check address is valid Bitcoin address
@@ -30,6 +29,5 @@ class Member < ActiveRecord::Base
   validates :signature, bitcoin_signature: true
   # or 
   validates :signature, bitcoin_signature: { :verify_message => :message_attr, :verify_address => :address_attr }
-
 end
 ````
