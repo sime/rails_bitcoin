@@ -1,4 +1,4 @@
-= Rails Bitcoin Tools
+## Rails Bitcoin Tools
 
 ````ruby
 
