@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RailsBitcoin::VERSION
   s.authors     = ["hpyhacking"]
   s.email       = ["crazyflapjack@gmail.com"]
-  s.homepage    = "https://github.com/peatio/rails-bitcoin"
+  s.homepage    = "https://github.com/peatio/rails_bitcoin"
   s.summary     = "Bitcoin Tools in Rails."
   s.description = "bitcoin address validator, sign message validator."
 
