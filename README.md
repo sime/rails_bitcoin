@@ -1,6 +1,23 @@
-## Rails Bitcoin Tools
+### Rails Bitcoin Tools
+
+## Installation
+
+Add it to your Gemfile:
+
+```ruby
+gem 'rails_bitcoin'
+```
+
+Run the following command to install it:
+
+```console
+bundle install
+```
+
+## Usage
 
 ### Bitcoin Address Validator & Signature Validator
+
 ````ruby
 class Member < ActiveRecord::Base
 
