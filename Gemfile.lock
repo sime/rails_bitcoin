@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rails_bitcoin (0.0.1)
+    rails_bitcoin (0.0.2)
       bitcoin-ruby (~> 0.0.1)
       ffi (~> 1.9.0)
       rails (~> 4.0.0)
