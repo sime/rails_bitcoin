@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["hpyhacking"]
   s.email       = ["crazyflapjack@gmail.com"]
   s.homepage    = "https://github.com/peatio/rails-bitcoin"
-  s.summary     = "some bitcoin tools in rails."
+  s.summary     = "Bitcoin Tools in Rails."
   s.description = "bitcoin address validator, sign message validator."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
